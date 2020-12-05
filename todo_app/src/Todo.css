@@ -1,3 +1,13 @@
 .todo_list{
   text-align: center;
 }
+
+.padding{
+  background-color: #efefef;
+  text-align: left;
+}
+
+.edit{
+
+  text-align: left;
+}
